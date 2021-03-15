@@ -1,4 +1,5 @@
-![irlalmeida-header](https://user-images.githubusercontent.com/27395209/111101340-71d67c00-8528-11eb-8310-a22b201f7ff6.gif)
+![irlalmeida-header](https://user-images.githubusercontent.com/27395209/111101679-2d97ab80-8529-11eb-8cda-5bbf99d4fa36.gif)
+
 ### Hi there 👋
 
 <!--
