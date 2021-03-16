@@ -1,4 +1,4 @@
-![irlalmeida-header](https://user-images.githubusercontent.com/27395209/111101679-2d97ab80-8529-11eb-8cda-5bbf99d4fa36.gif)
+![irlalmeida-header](https://user-images.githubusercontent.com/27395209/111360886-0a294980-866c-11eb-9d02-73e0a171dd4b.gif)
 
 Hello there! I'm Isa, a brazillian woman passionate about politics and languages. As of right now I, besides portuguese, I speak english, spanish and french.
 
