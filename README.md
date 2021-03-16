@@ -10,3 +10,5 @@
 ### :ballot_box: I am Secretary-General of [**EPEP USP**](https://github.com/epepusp/), a group of students whose mission is to promote healthy and equalitarian debate, pounder over our country, shape leadership and spread knowledge.
 
 ### :rocket: I am also a member of [**Projeto Jupiter**](https://github.com/Projeto-Jupiter), a rocketeering group where I help out with all things Marketing.
+
+![Isabela's github stats](https://github-readme-stats.vercel.app/api?username=irlalmeida)
