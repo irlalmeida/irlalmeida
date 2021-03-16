@@ -1,6 +1,6 @@
 ![irlalmeida-header](https://user-images.githubusercontent.com/27395209/111364292-cd5f5180-866f-11eb-8ffe-4f9c66a9836c.gif)
 
-# Hello there! :handshake:
+# :handshake: Hello there! :handshake:
 ## I'm Isa, a brazillian woman passionate about politics and languages. 
 
 ### :speaking_head: As of right now I, besides portuguese, speak english, spanish and french.
