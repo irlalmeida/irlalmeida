@@ -11,4 +11,5 @@
 
 ### :rocket: I am also a member of [**Projeto Jupiter**](https://github.com/Projeto-Jupiter), a rocketeering group where I help out with all things Marketing.
 
-![Isabela's github stats](https://github-readme-stats.vercel.app/api?username=irlalmeida)
+![Isabela's github stats](https://github-readme-stats.vercel.app/api?username=irlalmeida&count_private=true&show_icons=true&hide=issues&theme=react)
+<img alt="irlalmeida's visitors" src="https://komarev.com/ghpvc/?username=irlalmeida&color=61dafb&style=flat&label=visitors" />
