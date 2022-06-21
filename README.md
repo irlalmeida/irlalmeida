@@ -1,4 +1,4 @@
-![irlalmeida-header](https://user-images.githubusercontent.com/27395209/111364292-cd5f5180-866f-11eb-8ffe-4f9c66a9836c.gif)
+![irlalmeida-header](https://user-images.githubusercontent.com/27395209/174879503-481b2b04-f0fc-446f-8602-4a95b94b1bc8.gif)
 
 # :handshake: Hello there! :handshake:
 ## I'm Isa, a brazillian woman passionate about politics and languages. 
