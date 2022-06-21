@@ -9,7 +9,7 @@
 
 ### :books: Curently I am studying social sciences at [**FFLCH USP**](https://fflch.usp.br/).
 
-### :ballot_box: I am Secretary-General of [**EPEP USP**](https://github.com/epepusp/), a group of students whose mission is to promote healthy and equalitarian debate, pounder over our country, shape leadership and spread knowledge.
+### :ballot_box: I develop a project regarding political education of low income students at [**EPEP USP**](https://github.com/epepusp/), a student organization whose mission is to promote healthy and equalitarian debate, pounder over our country, shape leadership and spread knowledge.
 
 ![Isabela's github stats](https://github-readme-stats.vercel.app/api?username=irlalmeida&count_private=true&show_icons=true&hide=issues,stars&hide_border=true&theme=react)
 
