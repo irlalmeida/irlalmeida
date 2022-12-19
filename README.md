@@ -5,11 +5,9 @@
 
 ### :speaking_head: As of right now I, besides portuguese, speak english, spanish and french.
 
-### :woman_technologist: I'm an intern at [Youse](https://www.youse.com.br/), a fully digital insurance company, and I work at the Machine Learning department.
+### :woman_technologist: I'm an intern at [SMRI](https://www.prefeitura.sp.gov.br/cidade/secretarias/relacoes_internacionais/), Sao Paulo's Municipal Department of International Relations.
 
 ### :books: Curently I am studying social sciences at [**FFLCH USP**](https://fflch.usp.br/).
-
-### :ballot_box: I develop a project regarding political education of low income students at [**EPEP USP**](https://github.com/epepusp/), a student organization whose mission is to promote healthy and equalitarian debate, pounder over our country, shape leadership and spread knowledge.
 
 ![Isabela's github stats](https://github-readme-stats.vercel.app/api?username=irlalmeida&count_private=true&show_icons=true&hide=issues,stars&hide_border=true&theme=react)
 
