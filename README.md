@@ -9,6 +9,6 @@
 
 ### :books: Curently I am studying social sciences at [**FFLCH USP**](https://fflch.usp.br/).
 
-![Isabela's github stats](https://github-readme-stats.vercel.app/api?username=irlalmeida&count_private=true&show_icons=true&hide=issues,stars&hide_border=true&theme=react)
+<!--- ![Isabela's github stats](https://github-readme-stats.vercel.app/api?username=irlalmeida&count_private=true&show_icons=true&hide=issues,stars&hide_border=true&theme=react)) -->
 
 <img alt="irlalmeida's visitors" src="https://komarev.com/ghpvc/?username=irlalmeida&color=61dafb&style=flat&label=visitors" />
