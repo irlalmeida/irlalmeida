@@ -5,7 +5,7 @@
 
 ### :speaking_head: As of right now I, besides portuguese, speak english, spanish, french and swedish.
 
-### :woman_technologist: I'm an intern at OTDSP, São Paulo's State Observatory of Digital Transformation
+### :woman_technologist: I'm an intern at OTDSP, São Paulo State's Observatory of Digital Transformation
 
 ### :books: I currently study social sciences at [**FFLCH USP**](https://fflch.usp.br/).
 
